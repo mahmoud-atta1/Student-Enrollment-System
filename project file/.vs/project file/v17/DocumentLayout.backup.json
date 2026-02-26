@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|c:\\-programming\\projects\\project file processing\\project file\\project file\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|c:\\-programming\\projects\\project file processing\\project file\\project file\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|c:\\-programming\\projects\\project file processing\\project file\\project file\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CF1C73-53B4-4ED5-A6F5-13DC738D6B01}|project file\\project file.csproj|solutionrelative:project file\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course.cs",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\course.cs",
+              "RelativeDocumentMoniker": "project file\\course.cs",
+              "ToolTip": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\course.cs",
+              "RelativeToolTip": "project file\\course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwIYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T08:13:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\student.cs",
+              "RelativeDocumentMoniker": "project file\\student.cs",
+              "ToolTip": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\student.cs",
+              "RelativeToolTip": "project file\\student.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T07:57:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\main.cs",
+              "RelativeDocumentMoniker": "project file\\main.cs",
+              "ToolTip": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\main.cs",
+              "RelativeToolTip": "project file\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T07:48:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\main.cs",
+              "RelativeDocumentMoniker": "project file\\main.cs",
+              "ToolTip": "E:\\Programming\\project File Processing\\project file\\project file\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T20:20:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "course.cs [Design]",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\course.cs",
+              "RelativeDocumentMoniker": "project file\\course.cs",
+              "ToolTip": "E:\\Programming\\project File Processing\\project file\\project file\\course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T20:21:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "C:\\-PROGRAMMING\\Projects\\project File Processing\\project file\\project file\\student.cs",
+              "RelativeDocumentMoniker": "project file\\student.cs",
+              "ToolTip": "E:\\Programming\\project File Processing\\project file\\project file\\student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T20:21:17.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

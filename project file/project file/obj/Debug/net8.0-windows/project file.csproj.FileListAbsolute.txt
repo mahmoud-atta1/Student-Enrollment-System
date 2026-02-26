@@ -1,0 +1,36 @@
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.course.resources
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.student.resources
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.csproj.GenerateResource.cache
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.AssemblyInfoInputs.cache
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.AssemblyInfo.cs
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.csproj.CoreCompileInputs.cache
+E:\Programming\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.exe
+E:\Programming\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.deps.json
+E:\Programming\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.runtimeconfig.json
+E:\Programming\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.dll
+E:\Programming\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.pdb
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.dll
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\refint\project file.dll
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.pdb
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.genruntimeconfig.cache
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\ref\project file.dll
+E:\Programming\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.main.resources
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.exe
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.deps.json
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.runtimeconfig.json
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.dll
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\bin\Debug\net8.0-windows\project file.pdb
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.course.resources
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.main.resources
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project_file.student.resources
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.csproj.GenerateResource.cache
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.GeneratedMSBuildEditorConfig.editorconfig
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.AssemblyInfoInputs.cache
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.AssemblyInfo.cs
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.csproj.CoreCompileInputs.cache
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.dll
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\refint\project file.dll
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.pdb
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\project file.genruntimeconfig.cache
+C:\-PROGRAMMING\Projects\project File Processing\project file\project file\obj\Debug\net8.0-windows\ref\project file.dll
